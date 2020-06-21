@@ -1,5 +1,7 @@
 # Primeiro MeetUp - Dev Seridó
 
+![Imagem 1º MeetUp](imgs/meetup1.png)
+
 - [x] Quando aconteceu?
 
 - 20/jun do ano de 2020 das 17h às 18h30
